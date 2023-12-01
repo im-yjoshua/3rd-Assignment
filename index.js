@@ -25,6 +25,7 @@ var __importStar = (this && this.__importStar) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const readline = __importStar(require("readline"));
 {
+    console.log('I would suggest to run a question at a time for the best results. Otherwise, it might appear to be messed up, thanks!')
     const rl = readline.createInterface({
         input: process.stdin,
         output: process.stdout,
