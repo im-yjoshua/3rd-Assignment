@@ -1,7 +1,7 @@
 import * as readline from 'readline';
 
 {
-    console.log('I would suggest to run a question at a time for the best results. Otherwise, it might appear to be messed up, thanks!')
+    console.log('I would suggest to run a question at a time while commenting out the rest for the best results. Otherwise, it might appear to be messed up, thanks!')
 
     const rl = readline.createInterface({
     input: process.stdin,
